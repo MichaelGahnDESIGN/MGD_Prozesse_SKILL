@@ -1,3 +1,14 @@
+<!-- MGD-HEADER -->
+<p align="center"><a href="https://Michael-Gahn.de"><img src="assets/mgd-logo.png" alt="Michael Gahn DESIGN" width="48"></a></p>
+
+<p align="center"><img src="assets/banner.svg" alt="MGD Prozesse" width="100%"></p>
+
+<p align="center">
+  <img alt="Lizenz" src="https://img.shields.io/github/license/MichaelGahnDESIGN/MGD_Prozesse_SKILL?label=Lizenz">
+  <a href="https://Michael-Gahn.de"><img alt="by Michael Gahn DESIGN" src="https://img.shields.io/badge/by-Michael%20Gahn%20DESIGN-cd1616"></a>
+</p>
+<!-- /MGD-HEADER -->
+
 # MGD — Prozesse SKILL
 
 Ein Skill für KI-Agenten (Claude Code & ChatGPT Codex), der **Hintergrundaufgaben prüft, einordnet und beendet** — und dabei die drei Fehlschlüsse vermeidet, an denen solche Prüfungen üblicherweise scheitern.
