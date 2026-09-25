@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="MGD Prozesse">
+  <defs>
+    <linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#5b3df5"/><stop offset="1" stop-color="#2b7bff"/></linearGradient>
+    <radialGradient id="glow" cx=".85" cy=".1" r=".9"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="1280" height="320" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1280" height="320" fill="url(#g)"/>
+    <rect width="1280" height="320" fill="url(#glow)"/>
+  <line x1="325" y1="172" x2="237" y2="247" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="325" y1="172" x2="200" y2="160" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="237" y1="247" x2="129" y2="258" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="237" y1="247" x2="200" y2="160" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="129" y1="258" x2="70" y2="190" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="129" y1="258" x2="200" y2="160" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="70" y1="190" x2="91" y2="81" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="70" y1="190" x2="200" y2="160" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="91" y1="81" x2="220" y2="56" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="91" y1="81" x2="200" y2="160" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="220" y1="56" x2="304" y2="106" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="220" y1="56" x2="200" y2="160" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="304" y1="106" x2="325" y2="172" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="304" y1="106" x2="200" y2="160" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="200" y1="160" x2="237" y2="247" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <line x1="200" y1="160" x2="200" y2="160" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <circle cx="325" cy="172" r="6" fill="#fff" fill-opacity=".28"/>
+  <circle cx="237" cy="247" r="6" fill="#fff" fill-opacity=".28"/>
+  <circle cx="129" cy="258" r="9" fill="#fff" fill-opacity=".28"/>
+  <circle cx="70" cy="190" r="12" fill="#fff" fill-opacity=".28"/>
+  <circle cx="91" cy="81" r="8" fill="#fff" fill-opacity=".28"/>
+  <circle cx="220" cy="56" r="6" fill="#fff" fill-opacity=".28"/>
+  <circle cx="304" cy="106" r="7" fill="#fff" fill-opacity=".28"/>
+  <circle cx="200" cy="160" r="12" fill="#fff" fill-opacity=".28"/>
+    <text x="420" y="140" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="78" font-weight="700" fill="#fff" letter-spacing="-1">MGD Prozesse</text>
+    <text x="422" y="196" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="23" fill="#fff" fill-opacity=".86">Universeller /prozesse-Skill für KI-Agenten (Claude</text><text x="422" y="226" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="23" fill="#fff" fill-opacity=".86">Code &amp; ChatGPT Codex): Hintergrundaufgaben prüfen…</text>
+    <rect x="422" y="266" width="218" height="30" rx="15" fill="#fff" fill-opacity=".18"/>
+    <text x="436" y="287" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#fff">Skill für KI-Agenten</text>
+  </g>
+</svg>
